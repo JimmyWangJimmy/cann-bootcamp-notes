@@ -3,6 +3,7 @@
 > 把昇腾 CANN 两天启航营的 7 讲 PPT，重写成**能读下去的**单文件网页讲义，每份都带一个能就地答疑的 AI 助教。
 
 <p>
+  <a href="https://jimmywangjimmy.github.io/cann-bootcamp-notes/"><img alt="Online" src="https://img.shields.io/badge/在线阅读-GitHub%20Pages-2ea44f.svg"></a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg">
   <img alt="Pages" src="https://img.shields.io/badge/docs-4%20volumes-brightgreen.svg">
   <img alt="Offline" src="https://img.shields.io/badge/offline-100%25-success.svg">
@@ -24,6 +25,9 @@
 - **能答疑**：划词、点段落旁的 `?`、拖悬浮球到任意位置，就地提问
 
 全部是**单文件 HTML**，双击即开，不联网也能读（除了 AI 助教需要 API key）。
+
+> **在线读**：<https://jimmywangjimmy.github.io/cann-bootcamp-notes/>
+> （含 AI 助教；本地打开则是完全离线版）
 
 ---
 
