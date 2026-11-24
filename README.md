@@ -213,6 +213,22 @@ cann-bootcamp-notes/
 
 代码与笔记文本：[MIT](LICENSE)
 
+### 例外：AI 助教图标
+
+讲义里的悬浮球图标是**鲸鱼娘**（DeepSeek 拟人形象），单独授权，不受 MIT 覆盖：
+
+| 项 | 内容 |
+|---|---|
+| 角色形象 | © 上善无形（原创 OC「溟月」） |
+| DeepSeek 元素二创 | ZipZipPipe |
+| 改进版修复 | QYQCAMIAO |
+| 许可 | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)（署名 · 非商用 · 相同方式共享） |
+| 来源 | <https://github.com/fornarwhal/deepseek-whale-girl-icon> |
+
+也就是说：**代码随便用，图标商用需另行授权**。如果 fork 后用于商业场景，把 `.ai-orb` 的 `background-image` 换成自己的图标即可。
+
+### 课程资料
+
 `materials/ppt/` 下的 PPT 版权归 **CANN 开源社区 / 华为** 所有，此处仅作学习资料转载，遵循其原始许可。如涉版权问题请联系删除。
 
 ---
