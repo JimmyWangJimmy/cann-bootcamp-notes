@@ -209,6 +209,17 @@ cann-bootcamp-notes/
 
 ---
 
+## 做成工具了
+
+这套「分层 + 动画 + 精读」的结构被你抽出来了，现在是独立开源项目：
+
+- **[lecture-forge](https://github.com/JimmyWangJimmy/lecture-forge)** —— 上传 PPT/PDF/DOCX/MD，输出同样结构的单文件讲义
+  - 作为 AI agent 的 skill 使用（`SKILL.md` 定义工作流）
+  - 或命令行：`extract.py` → 写 JSON → `render.mjs` → `check.py`
+  - 或纯浏览器：[studio.html](studio.html)
+
+---
+
 ## License
 
 代码与笔记文本：[MIT](LICENSE)
